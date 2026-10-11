@@ -1,0 +1,5 @@
+Nama saya : Azizah
+1. sekarang create rirectori
+2. commit pertama
+3. push pertama
+4. commit ke dua
