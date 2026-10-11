@@ -10,7 +10,7 @@ Proyek ini dibuat untuk latihan penggunaan Git dan GitHub, khususnya dalam memah
 
 ## Anggota Tim
 - Azizah Lubis
-=======
+
 # 210926_github
 
 ## Deskripsi
@@ -26,4 +26,3 @@ Repository ini dibuat untuk memenuhi latihan Git dan GitHub.
 
 ## Pembuat
 Azizah Lubis
->>>>>>> b50dc7732d675a2f3d05465caed6fefdcaefa8a1
