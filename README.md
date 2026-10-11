@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# e-commerce
+# E-Commerce
 
 ## Deskripsi
 Proyek ini dibuat untuk latihan penggunaan Git dan GitHub, khususnya dalam memahami kolaborasi antaranggota tim.
