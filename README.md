@@ -1,12 +1,11 @@
 # E-Commerce
 
 ## Deskripsi
-Proyek ini dibuat untuk latihan penggunaan Git dan GitHub, khususnya dalam memahami kolaborasi antaranggota tim.
+Proyek ini dibuat untuk latihan penggunaan Git dan GitHub
 
 ## Tujuan
 - Memahami penggunaan repository Git.
 - Mempelajari commit dan branch.
-- Mempraktikkan kolaborasi menggunakan GitHub.
-
-## Anggota Tim
+  
+## Pembuat
 - Azizah Lubis
